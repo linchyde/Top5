@@ -3,7 +3,8 @@ import './SimpleViewCard.css';
 
 function SimpleViewCard({title,description,value,gain}) {
     return (
-        <div className="simpleView_card jumbotron">
+        <a href='/expandedView'>
+          <div className="simpleView_card jumbotron">
             <h3>{title}</h3>
             <p>{description}</p>
 
@@ -27,6 +28,7 @@ enter chart here */}
 
             
         </div>
+        </a>
     )
 }
 
