@@ -1,0 +1,33 @@
+.popup_card{
+    background-color: white;
+    border-radius: 50px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+}
+
+.card_header{
+    background-color:royalblue;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.card_body{
+    background-color:white;
+}
+
+.content_right{
+    text-align: left;
+}
+
+.content_left{
+    text-align: right;
+}
+
+.submit_action{
+    padding-left: 25%;
+    padding-right: 25%;
+    align-items: center;
+}
+
+
+

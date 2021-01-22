@@ -1,5 +1,7 @@
 import React from 'react';
 import SimpleViewCard from "../SimpleViewCard/SimpleViewCard";
+import './AllSimpleViews.css';
+
 
 function AllSimpleViews() {
     return (
